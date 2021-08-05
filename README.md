@@ -1,5 +1,5 @@
 # barbell-weight
-###The objective of this program is represent the weight plates in a barbell.
+### The objective of this program is represent the weight plates in a barbell.
 
 - The weight plates to be used are: [25, 20, 15, 10, 5, 2.5, 2, 1.5, 1, 0.5] *Kilograms (kg)*;
 - The only plate that can be stacked more than once is the 25kg. The rest are for closing the required weight;
